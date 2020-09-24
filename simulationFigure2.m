@@ -57,7 +57,7 @@ end
 
 
 %Number of realizations of large-scale fading variations
-realizations = 100;
+realizations = 50;
 
 %Standard deviation
 stdvalue = 2;
